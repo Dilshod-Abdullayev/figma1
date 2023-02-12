@@ -2,30 +2,23 @@ import React from "react";
 
 const NavItems = () => {
   return (
-    <div className="pt-3  flex flex-wrap align-middle justify-around h-14">
-      <a href="" className="text-lg	font-extrabold tracking-normal">
-        ГЛАВНАЯ
+    <div className="pt-3   flex flex-wrap align-middle justify-around h-14">
+      <a
+        href=""
+        className="text-lg	font-extrabold tracking-normal :hover text-purple-900"
+      >
+        Document o`qish
       </a>
       <a href="" className="text-lg	font-extrabold tracking-normal">
-        ИНВЕСТОРАМ
+        Videolar
       </a>
       <a href="" className="text-lg	font-extrabold tracking-normal">
-        КОМПАНИЯМ
+        Mukammal platformalar
       </a>
       <a href="" className="text-lg	font-extrabold tracking-normal">
-        ПАРТНЕРАМ
-      </a>
-      <a href="" className="text-lg	font-extrabold tracking-normal">
-        КЕЙСЫ
-      </a>
-      <a href="" className="text-lg	font-extrabold tracking-normal">
-        БЛОГ
-      </a>
-      <a href="" className="text-lg	font-extrabold tracking-normal">
-        КОНТАКТЫ
+        Courselar
       </a>
     </div>
   );
 };
-
 export default NavItems;

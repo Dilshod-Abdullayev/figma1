@@ -11,8 +11,8 @@ const Main = () => {
       <Navbar />
       <Header />
       <Service />
-      <Answers/>
-      <Footer/>
+      <Answers />
+      <Footer />
     </div>
   );
 };
