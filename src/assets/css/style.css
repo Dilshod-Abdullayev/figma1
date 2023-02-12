@@ -1,6 +1,6 @@
 .box__right-box {
   margin-top: 20px;
-  width: 350px;
+  width: 370px;
   height: 270px;
   background-color: white;
   box-shadow: 0px 4px 51px rgba(63, 63, 63, 0.25);
@@ -47,7 +47,44 @@
   transition: 0.6s ease;
   cursor: pointer;
 }
-.grid div{
-  border:  1px solid black;
+.grid div {
   width: 280px;
+}
+.item li {
+  list-style: none;
+  width: 90%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+  color: #20152c;
+}
+.item li:hover {
+  cursor: pointer;
+  color: black;
+  transition: 0.5s ease all;
+}
+.investor__box {
+  border: 13px solid #ffffff;
+  box-shadow: -1px 10px 64px #e0e2eb;
+  border-radius: 25px;
+  padding: 10px;
+  width: 360px;
+  height: 530px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.investor__box div img {
+  width: 100%;
+  height: 100%;
+}
+.investor__box:hover {
+  background-color: rgb(129, 126, 126);
+  color: white;
+  transition: all 0.4s;
+  border: 5px solid #ffffff;
 }

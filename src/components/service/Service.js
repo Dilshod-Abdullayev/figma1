@@ -4,7 +4,7 @@ import "../../assets/css/style.css";
 export default function Service() {
   return (
     <div className="servise">
-      <div className="flex justify-between content-center items-center">
+      <div className="flex  justify-between content-center items-center p-5">
         <div className="box__left ">
           <p className="text-white text-2xl	">ЛИЧНЫЙ СЧЕТ</p>
           <span className="text-4xl font-semibold		text-white mt-5">
@@ -26,7 +26,7 @@ export default function Service() {
           ))}
         </div>
       </div>
-      <div className="text-white mt-32 service__sum w-full flex justify-between bg-violet-900 rounded-2xl">
+      <div className="text-white mt-32 service__sum w-full flex justify-between bg-violet-900 rounded-2xl p-4">
         <div className="servise__investor flex flex-col items-center w-6/12">
           <button className="text-black bg-white p-3 rounded-2xl mt-1 text-2xl font-semibold">
             ИНВЕСТОРАМ

@@ -2,6 +2,7 @@ import img1 from "../assets/img/Icon_navigation.png";
 import img2 from "../assets/img/Vector 666.png";
 import img3 from "../assets/img/Rectangle 59.png";
 import img4 from "../assets/img/Vector 388.png";
+import investor__img from "../assets/img/investor__box.png";
 
 export const servise__data = [
   {
@@ -69,5 +70,32 @@ export const company__data = [
   {
     id: 4,
     text: "Как подобные сделки и доходы регулируются в налоговой? ",
+  },
+];
+
+export const investor__page_box = [
+  {
+    id: 1,
+    img: investor__img,
+    title: "АО “МОРЕТО”",
+    text: "Компания занимается продажей и продвижением товаров на маркетплейсах.",
+    sum: "Сбор средств:",
+    price: "1 500 000  собрано",
+  },
+  {
+    id: 2,
+    img: investor__img,
+    title: "АО “МОРЕТО”",
+    text: "Компания занимается продажей и продвижением товаров на маркетплейсах.",
+    sum: "Сбор средств:",
+    price: "1 500 000  собрано",
+  },
+  {
+    id: 3,
+    img: investor__img,
+    title: "АО “МОРЕТО”",
+    text: "Компания занимается продажей и продвижением товаров на маркетплейсах.",
+    sum: "Сбор средств:",
+    price: "1 500 000  собрано",
   },
 ];
