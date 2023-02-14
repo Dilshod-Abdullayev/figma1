@@ -99,3 +99,26 @@ export const investor__page_box = [
     price: "1 500 000  собрано",
   },
 ];
+
+export const document__theme = [
+  {
+    id: 1,
+    theme: "",
+    path: "",
+  },
+  {
+    id: 2,
+    theme: "",
+    path: "",
+  },
+  {
+    id: 3,
+    theme: "",
+    path: "",
+  },
+  {
+    id: 4,
+    theme: "",
+    path: "",
+  },
+];

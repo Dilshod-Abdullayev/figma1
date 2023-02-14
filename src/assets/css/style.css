@@ -1,4 +1,4 @@
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 10px;
 }
 ::-webkit-scrollbar-track {
@@ -11,7 +11,7 @@
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #4a0b8ac5;
-}
+} */
 .box__right-box {
   margin-top: 20px;
   width: 370px;
