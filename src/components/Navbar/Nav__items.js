@@ -11,7 +11,11 @@ const NavItems = () => {
       >
         Document o`qish
       </Link>
-      <Link href="" className="text-lg	font-extrabold tracking-normal">
+      <Link
+        href=""
+        to="video__tutorial"
+        className="text-lg	font-extrabold tracking-normal"
+      >
         Videolar
       </Link>
       <Link href="" className="text-lg	font-extrabold tracking-normal">

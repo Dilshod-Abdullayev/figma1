@@ -103,22 +103,82 @@ export const investor__page_box = [
 export const document__theme = [
   {
     id: 1,
-    theme: "",
-    path: "",
+    theme: "JavaScript haqida",
+    path: "jsinfo",
   },
   {
     id: 2,
-    theme: "",
-    path: "",
+    theme: "JavaScript kirish",
+    path: "jsopen",
   },
   {
     id: 3,
-    theme: "",
-    path: "",
+    theme: "JavaScript sintaksis",
+    path: "jssyntax",
   },
   {
     id: 4,
-    theme: "",
-    path: "",
+    theme: "JavaScript izoh",
+    path: "jscomment",
+  },
+  {
+    id: 5,
+    theme: "JavaScript o`zgaruvchilar",
+    path: "jsvariable",
+  },
+  {
+    id: 6,
+    theme: "JavaScript LET",
+    path: "jslet",
+  },
+  {
+    id: 7,
+    theme: "JavaScript o`zgarmas",
+    path: "jsconst",
+  },
+  {
+    id: 8,
+    theme: "JavaScript operatorlar",
+    path: "jsoperant",
+  },
+  {
+    id: 9,
+    theme: "JavaScript function",
+    path: "jsfunction",
+  },
+  {
+    id: 10,
+    theme: "JavaScript event",
+    path: "jsevent",
+  },
+  {
+    id: 11,
+    theme: "JavaScript satr",
+    path: "jsstring",
+  },
+  {
+    id: 12,
+    theme: "JavaScript event",
+    path: "jsevent",
+  },
+  {
+    id: 13,
+    theme: "JavaScript event",
+    path: "jsevent",
+  },
+  {
+    id: 14,
+    theme: "JavaScript event",
+    path: "jsevent",
+  },
+  {
+    id: 15,
+    theme: "JavaScript event",
+    path: "jsevent",
+  },
+  {
+    id: 16,
+    theme: "JavaScript event",
+    path: "jsevent",
   },
 ];
