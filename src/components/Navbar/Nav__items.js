@@ -22,7 +22,7 @@ const NavItems = () => {
         Mukammal platformalar
       </Link>
       <Link href="" className="text-lg	font-extrabold tracking-normal">
-        Courselar
+        <span className="text-yellow-400 font-extrabold">JS</span> Masalalar
       </Link>
     </div>
   );

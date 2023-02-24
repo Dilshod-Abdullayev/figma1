@@ -17,8 +17,6 @@ const Router = () => {
           <Route path="document" element={<Document />} />
           <Route path="video__tutorial" element={<Video__tutorial />} />
         </Route>
-      </Routes>
-      <Routes>
         <Route path="" element={<Document__layout />}>
           <Route path="document/jsinfo" element={<InvestorBox />} />
         </Route>

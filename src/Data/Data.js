@@ -182,3 +182,69 @@ export const document__theme = [
     path: "jsevent",
   },
 ];
+
+export const video__course_uz = [
+  {
+    id: 1,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 2,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 3,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 4,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 5,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+];
+
+export const video__course_eng = [
+  {
+    id: 1,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 2,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 3,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 4,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+  {
+    id: 5,
+    title: "JavaScript o`rganamiz",
+    link: "https://www.youtube.com/watch?v=Ovef875vm-Q",
+    chanel: "JavaScript",
+  },
+];

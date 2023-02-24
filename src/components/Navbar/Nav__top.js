@@ -1,10 +1,11 @@
 import React from "react";
 import img from "../../assets/img/logo.png";
 import { BsFillTelephoneFill } from "react-icons/bs";
+import { Link } from "react-router-dom";
 const NavTop = () => {
   return (
     <div className="flex justify-between border-b pb-10">
-      <img src={img} />
+      <Link to='/'><img src={img} /></Link>
       <div className="w-1/2  flex justify-around align-middle">
         <a className="text-lg font-medium text-slate-500 mt-2">
           +7 (918) 142-48-44
