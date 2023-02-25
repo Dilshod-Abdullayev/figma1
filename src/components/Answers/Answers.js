@@ -7,7 +7,6 @@ export default function Answers() {
   const handleClick = () => {
     setState(false);
   };
-  console.log(state);
   useEffect(() => {
     setData(state ? investor__data : company__data);
   }, [state]);

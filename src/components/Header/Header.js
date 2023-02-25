@@ -4,7 +4,7 @@ import HeaderRight from "./Header__right";
 
 const Header = () => {
   return (
-    <div className="flex justify-between flex-wrap w-full h-96 border">
+    <div className="flex justify-between flex-wrap  h-96">
       <HeaderLeft />
       <HeaderRight />
     </div>

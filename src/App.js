@@ -1,11 +1,13 @@
-import React from "react";
-import Main from "./components/Main";
+import React, { useContext } from "react";
 import "./index.css";
 import Router from "./Routes/Router";
-import Router__document from "./Routes/Router__document";
+// import {ModeContex}
+// import { ModeContext } from "./Context/Mode__context";
+
 const App = () => {
+  // const { mode } = useContext(ModeContext);
   return (
-    <div className="container mx-auto">
+    <div>
       <Router />
     </div>
   );

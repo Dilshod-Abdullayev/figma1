@@ -5,11 +5,11 @@ import { video__course_eng } from "../../Data/Data";
 import uzphoto from "../../assets/img/uz.png";
 import engphoto from "../../assets/img/english.png";
 export default function Video__select() {
-  const [active, setActive] = useState(true);
+  const [active, setActive] = useState(false);
   const handleClick = () => {
     setActive(!active);
   };
-  const [active_eng, setActive_eng] = useState(true);
+  const [active_eng, setActive_eng] = useState(false);
   const handleClick_eng = () => {
     setActive_eng(!active_eng);
   };
