@@ -1,8 +1,7 @@
 import React, { useContext } from "react";
 import "./index.css";
 import Router from "./Routes/Router";
-// import {ModeContex}
-// import { ModeContext } from "./Context/Mode__context";
+import { ModeContext } from "./Context/Mode__context";
 
 const App = () => {
   // const { mode } = useContext(ModeContext);
