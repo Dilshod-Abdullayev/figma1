@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/figma1/static/css/main.6beaef00.css",
-    "main.js": "/figma1/static/js/main.1504126a.js",
-    "static/media/english.png": "/figma1/static/media/english.2718af477aef806edb2e.png",
-    "static/media/uz.png": "/figma1/static/media/uz.dd7276f8a0596d08914d.png",
-    "static/media/investor__box.png": "/figma1/static/media/investor__box.57ba9ecacfe13efc392f.png",
-    "static/media/Rectangle 2.png": "/figma1/static/media/Rectangle 2.4e464b81452b9d36017e.png",
-    "static/media/programmer.png": "/figma1/static/media/programmer.9e33fa136582e90e519e.png",
-    "index.html": "/figma1/index.html",
-    "main.6beaef00.css.map": "/figma1/static/css/main.6beaef00.css.map",
-    "main.1504126a.js.map": "/figma1/static/js/main.1504126a.js.map"
+    "main.css": "/static/css/main.10d5f71c.css",
+    "main.js": "/static/js/main.d0e92a46.js",
+    "static/media/english.png": "/static/media/english.2718af477aef806edb2e.png",
+    "static/media/uz.png": "/static/media/uz.dd7276f8a0596d08914d.png",
+    "static/media/investor__box.png": "/static/media/investor__box.57ba9ecacfe13efc392f.png",
+    "static/media/Rectangle 2.png": "/static/media/Rectangle 2.4e464b81452b9d36017e.png",
+    "static/media/programmer.png": "/static/media/programmer.9e33fa136582e90e519e.png",
+    "index.html": "/index.html",
+    "main.10d5f71c.css.map": "/static/css/main.10d5f71c.css.map",
+    "main.d0e92a46.js.map": "/static/js/main.d0e92a46.js.map"
   },
   "entrypoints": [
-    "static/css/main.6beaef00.css",
-    "static/js/main.1504126a.js"
+    "static/css/main.10d5f71c.css",
+    "static/js/main.d0e92a46.js"
   ]
 }
