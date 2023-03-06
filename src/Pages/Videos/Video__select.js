@@ -16,7 +16,7 @@ export default function Video__select() {
   return (
     <div className="video__component bg-slate-900 p-5">
       <h1 className="text-center text-white text-3xl">Videolar to`plami</h1>
-      <div className="w-full h-auto rounded  bg-slate-400 p-5 font-light border dark:border-gray-700 dark:bg-gray-900 divide-gray-800 ">
+      <div className="w-full h-auto rounded  p-5 font-light border dark:border-gray-700 bg-gray-900 divide-gray-800 ">
         <h1
           onClick={handleClick}
           className="select-none align-middle items-center	 flex text-4xl font-extrabold text-zinc-200 cursor-pointer"
@@ -77,7 +77,7 @@ export default function Video__select() {
           ""
         )}
       </div>
-      <div className="w-full h-auto rounded  bg-slate-400 p-5 font-light border dark:border-gray-700 dark:bg-gray-900 divide-gray-800 ">
+      <div className="w-full h-auto rounded  p-5 font-light border dark:border-gray-700 dark:bg-gray-900 divide-gray-800 ">
         <h1
           onClick={handleClick_eng}
           className="select-none	 flex text-4xl font-extrabold text-zinc-200 cursor-pointer"

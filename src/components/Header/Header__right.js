@@ -1,7 +1,12 @@
 import React from "react";
 import img from "../../assets/img/programmer.png";
+import "../../assets/css/style.css";
 const HeaderRight = () => {
-  return <div>{/* <img width="100%" height="100%" src={img} /> */}</div>;
+  return (
+    <div className="header__right">
+      <img width="400px" src={img} />
+    </div>
+  );
 };
 
 export default HeaderRight;

@@ -4,7 +4,7 @@ import "../../assets/css/style.css";
 export default function Service() {
   return (
     <div className="servise">
-      <div className="flex  justify-between content-center items-center p-5">
+      <div className="flex mt-8  justify-between content-center items-center p-5">
         <div className="box__left ">
           <p className="text-white text-2xl	">ЛИЧНЫЙ СЧЕТ</p>
           <span className="text-4xl font-semibold		text-white mt-5">
