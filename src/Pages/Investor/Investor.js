@@ -4,11 +4,11 @@ import InvestorBox from "./Investor__box";
 const Investor = () => {
   return (
     <div className="investor flex-col bg-rose-100 p-4">
-      <h1 className="text-center text-4xl text-purple-900 font-extrabold mt-24">
+      <h1 className="text-center text-4xl text-purple-900 font-extrabold mt-24 max-md:text-3xl">
         КОМПАНИИ, В КОТОРЫЕ ВЫ МОЖЕТЕ <br /> ИНВЕСТИРОВАТЬ НА ПЛАТФОРМЕ
       </h1>
       <InvestorBox />
-      <div className=" bg-violet-900 rounded-2xl mt-32 flex flex-col justify-center content-center ">
+      {/* <div className=" bg-violet-900 rounded-2xl mt-32 flex flex-col justify-center content-center ">
         <button
           className="w-10/12 bg-white p-5 rounded-3xl text-center text-purple-900 font-extrabold text-3xl"
           style={{ marginLeft: "10%" }}
@@ -53,7 +53,7 @@ const Investor = () => {
             </button>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

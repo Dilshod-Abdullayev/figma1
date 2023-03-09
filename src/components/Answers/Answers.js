@@ -13,23 +13,23 @@ export default function Answers() {
   return (
     <div className="mt-12 p-5">
       <h1 className="text-center text-purple-900 font-semibold text-6xl">
-        Ответы на частые вопросы
+        JavaScriptda yo`nalish tanlash
       </h1>
       <div className="component__answer flex justify-around mt-12 p-5">
         <div
           onClick={() => setState(true)}
           className="text-black font-bold text-2xl cursor-pointer hover:text-slate-900"
         >
-          ИНВЕСТОРАМ
+          Frontend
         </div>
         <div
           onClick={handleClick}
           className="text-black font-bold text-2xl cursor-pointer hover:text-slate-900"
         >
-          КОМПАНИЯМ
+          Backend
         </div>
       </div>
-        <Answer__items data={data} />
+      <Answer__items data={data} />
     </div>
   );
 }

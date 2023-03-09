@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "../../assets/css/nav.css";
 import img from "../../assets/img/logo.png";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
-import {BsSunFill,BsFillMoonFill} from 'react-icons/bs'
+import { BsSunFill, BsFillMoonFill } from "react-icons/bs";
 
 const NavItems = () => {
   const [showNavbar, setShowNavbar] = useState(false);
@@ -29,9 +29,18 @@ const NavItems = () => {
               <Link
                 to="document"
                 href=""
-                className="text-lg	font-extrabold tracking-normal :hover text-purple-900"
+                className="text-lg	font-extrabold tracking-normal"
               >
                 Document o`qish
+              </Link>
+            </li>
+            <li>
+              <Link
+                to=""
+                href=""
+                className="text-lg	font-extrabold tracking-normal "
+              >
+                Maqolalar o`qish
               </Link>
             </li>
             <li>
@@ -54,7 +63,7 @@ const NavItems = () => {
                 Masalalar
               </Link>
             </li>
-          {/* <BsSunFill/>
+            {/* <BsSunFill/>
           <BsFillMoonFill/> */}
           </ul>
         </div>

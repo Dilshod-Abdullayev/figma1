@@ -10,7 +10,7 @@ const Main = () => {
       <Header />
       <Service />
       <Answers />
-      <Investor/>
+      <Investor/> 
     </div>
   );
 };

@@ -2,8 +2,8 @@
   margin-top: 20px;
   width: 370px;
   height: 270px;
-  background-color: white;
-  box-shadow: 0px 4px 51px rgba(63, 63, 63, 0.25);
+  background-color: #d9d9d9;
+  box-shadow: 15px 15px 51px rgba(63, 63, 63, 0.25);
   border-radius: 35px;
   display: flex;
   flex-wrap: wrap;
@@ -11,11 +11,10 @@
   padding: 20px;
 }
 .box__right {
-  width: 70%;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  align-content: space-around;
 }
 .box__left {
   display: flex;
